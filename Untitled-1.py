@@ -1,0 +1,1 @@
+print("negri lubyat chlen bogdana")
